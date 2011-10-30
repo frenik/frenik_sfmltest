@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1319950056 source:c:\programming\cgames\test\td\main.cpp
+	"Engine.h"
+
+1319950038 c:\programming\cgames\test\td\engine.h
+	<SFML/Graphics.hpp>
+	<string>
+
+1319950024 source:c:\programming\cgames\test\td\engine.cpp
+	"Engine.h"
+
